@@ -1,16 +1,16 @@
 # pixora-theme
 Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
-
+<br><br>
 # 📷 Screenshots
 
 ![Desktop preview](assets/icons-showcase-4.png)
 *An example of how the icons look on a desktop environment, featuring noctalia-shell.*
 
-========================================================================================
-
+<br><br>
 ![Icons showcase](assets/icons-showcase-2.png)
 *A better view of the icons style.*
 
+<br><br>
 # Installation
 1. Clone the repo ```git clone https://github.com/tsora1603/pixora-theme.git```
 2. Navigate to the icon theme directory ```cd pixora-theme```
@@ -18,6 +18,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 > _If install.sh doesn't run, try ```chmod +x install.sh```_
 
+<br><br>
 # How to contribute with art
 You'll need:
 
