@@ -1,6 +1,6 @@
 dir=$(pwd)
 git pull
-if [ -d "$HOME/.local/share/icons/pixelitos-dark" ] || [ -d "$HOME/.local/share/icons/pixelitos-dark" ]; then
+if [ -d "$HOME/.local/share/icons/pixelitos-dark" ] || [ -d "$HOME/.local/share/icons/pixelitos-light" ]; then
 	echo 'Pixora Icon Theme already installed.'
 	exit 1
 fi
