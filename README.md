@@ -6,7 +6,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 2. Navigate to the icon theme directory ```cd pixora-theme```
 3. Launch ```./install.sh```
 
-_If install.sh doesnt run try ```chmod +x install.sh```_
+> _If install.sh doesnt run try ```chmod +x install.sh```_
 
 # How to contribute with art
 You'll need:
