@@ -2,8 +2,8 @@
 Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 <p align="center">
-  <img src="assets/icons-showcase-4.png" width="500">
-  <img src="assets/icons-showcase-2.png" width="500">
+  <img src="assets/icons-showcase-4.png" width="700">
+  <img src="assets/icons-showcase-2.png" width="700">
 </p>
 
 # Installation
