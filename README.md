@@ -11,7 +11,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 <br>
 
-# Installation
+# 🖥️ Installation
 1. Clone the repo ```git clone https://github.com/tsora1603/pixora-theme.git```
 2. Navigate to the icon theme directory ```cd pixora-theme```
 3. Launch ```./install.sh```
@@ -20,7 +20,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 <br>
 
-# How to contribute with art
+# 🎨 How to contribute with art
 You'll need:
 
 1. A pixel art editor ([LibreSprite](https://libresprite.github.io/#!/) is great!);
@@ -30,7 +30,7 @@ You'll need:
 
 <br>
 
-# CREDITS
+# 👥 CREDITS
 - Inspired by **MrDeltaMan**: https://github.com/MrDeltaMan/DeltaPixel-Theme
 - Original work by **maxtron95**: https://github.com/maxtron95/tuxonpixels-icon-theme
 - Fallback and all non-application icons by **ItsZariep**: https://github.com/ItsZariep/pixelitos-icon-theme
