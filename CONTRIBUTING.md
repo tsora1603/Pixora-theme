@@ -25,7 +25,7 @@ Before suggesting a new app icon, check its name on `/usr/share/applications` in
 Example using Heroic Games Launcher .desktop file:
 
 <pre> 
-```ini
+ini
 
 [Desktop Entry]
 Name=Heroic Games Launcher
@@ -49,7 +49,6 @@ Comment[ja]=GOG、Epic Games、Amazon Gamesのためのオープンソースラ�
 Comment=An Open Source Launcher for GOG, Epic Games and Amazon Games
 MimeType=x-scheme-handler/heroic;
 Categories=Game;
-```
 </pre>
 
 Only after obtaining it, open a new issue stating "[XYZ Application]  Missing Icon" + informing the icon's name.
