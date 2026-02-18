@@ -21,7 +21,7 @@ cd pixora-theme
 
 ## 2. Launch the Installation Script
 This will either: <br><br>
-a. Symlink the files into place, allowing for easy updates by running `git pull`; <br>
+a. Symlink the files into place, allowing for easy updates by running `git pull`; <br><br>
 b. Copy-paste the files in the right directories, allowing for a fully local installation.
 
 ```bash
