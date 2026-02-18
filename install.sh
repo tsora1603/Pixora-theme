@@ -60,6 +60,7 @@ if [ "$choice" == "1" ]; then
 		confirm=${confirm,,}
 
 		if [[ "$confirm" = "y" || -z "$confirm" ]]; then
+			rm -rf $dir
 			echo -e "\nDirectory sucessfully removed.\n"
 		else
 			echo -e "\nDirectory removal cancelled.\n"
