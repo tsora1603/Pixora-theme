@@ -11,10 +11,22 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 <br>
 
-# 🖥️ Installation
-1. Clone the repo ```git clone https://github.com/tsora1603/pixora-theme.git```
-2. Navigate to the icon theme directory ```cd pixora-theme```
-3. Launch ```./install.sh```
+# 🖥️ How to Install
+
+## 1. Clone the repo 
+```bash
+git clone https://github.com/tsora1603/pixora-theme.git
+cd pixora-theme
+```
+
+## 2. Launch the Installation Script
+This will either:
+a. Symlink the files into place, allowing for easy updates by running `git pull`;
+b. Copy-paste the files in the right directories, allowing for a fully local installation.
+
+```bash
+./install.sh
+```
 
 > _If install.sh doesn't run, try ```chmod +x install.sh```_
 
