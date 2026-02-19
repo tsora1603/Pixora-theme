@@ -4,7 +4,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 # 📷 Screenshots
 ### Icons on an app launcher, featuring noctalia-shell:
-![Desktop preview](assets/icons-showcase-4.png)
+![Desktop preview](assets/icons-showcase-1.png)
 
 <br>
 
