@@ -50,7 +50,7 @@ MimeType=x-scheme-handler/heroic;
 Categories=Game;
 </pre>
 
-After obtaining it, open a new issue stating "[XYZ Application]  Missing Icon" + informing the icon's name.
+After obtaining it, open a new issue with the title "[XYZ Application]  Missing Icon" or similar, and inform the icon name.
 
 >[!Note]
 > Please refrain from adding multiple icon requests into the same issue, as this makes the workflow quite chaotic.
