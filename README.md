@@ -9,7 +9,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 <br>
 
 ### Icons full showcase:
-![Icons showcase](assets/icons-showcase-final.png)
+![Icons showcase](assets/icons2.png)
 
 # 🖥️ How to Install
 
