@@ -1,10 +1,10 @@
-# Pixora Theme
+# pixora-theme
 Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 >[!Note]
 > pixora-theme is being updated regularly. In case you want an icon to be added, please open a new issue.
 
-<br><br>
+<br>
 
 # 📷 Screenshots
 ### Icons on an app launcher, featuring noctalia-shell:
