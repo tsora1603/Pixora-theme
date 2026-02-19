@@ -52,8 +52,8 @@ Categories=Game;
 
 After obtaining it, open a new issue stating "[XYZ Application]  Missing Icon" + informing the icon's name.
 
->[!Notice]
->Please refrain from adding multiple icon requests into the same issue, as this makes the workflow quite chaotic.
+>[!Note]
+> Please refrain from adding multiple icon requests into the same issue, as this makes the workflow quite chaotic.
 
 ## Pull Requests
 
