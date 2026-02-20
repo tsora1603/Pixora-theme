@@ -44,7 +44,7 @@ Why are those borders considered 'bad':
 
 ## Shading
 
-Every icon should have some sort of shading, except monochromatic ones (eg.: GitHub, Monochrome, Hydra Launcher), and rare exceptions like Nvidia's where it kind of has some shading originally. This is to keep visual consistency between the icons.
+Every icon should have some sort of shading, except monochromatic ones (eg.: GitHub, Monochrome, Hydra Launcher), and rare exceptions, like Nvidia's, where it kind of has some shading originally already, and that is enough. This is to keep visual consistency between the icons.
 
 Shading is (most of the time) done assuming the light source is above the object, so a lighter tone on the top part and a darker one on the bottom part should suffice. It is also quite simplistic, so a single-pixel line should be enough.
 This is when the limitations of the 32-color palette shine the most!
