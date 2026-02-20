@@ -24,7 +24,7 @@ Here you can see examples of GOOD borders and BAD borders:
 
 <br>
 
-![Borders Examples](assets/borders-examples.png)
+![Borders Examples](.github/borders-examples.png)
 
 <br>
 
@@ -79,7 +79,7 @@ You're free to tweak the original icon aesthetic as much as you want, as long as
 
 Visual representation of the color palette:
 
-![Color Palette](assets/resurrect-32-32x.png)
+![Color Palette](.github/resurrect-32-32x.png)
 
 ## Shading
 
