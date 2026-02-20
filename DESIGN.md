@@ -61,7 +61,7 @@ When drawing the glyph of any app, try to think which portion of the whole image
 
 ## Vectorizing
 
-Every app icon should be vectorized. Reason being, I think it's way easier to, in this project's case, make every icon a vector and set the theme to `scalable` than to make 16, 24, 32, 64px and so on versions of every single icon. 
+Every app icon should be vectorized. Reason being, I think it's way easier to, in this project's case, make every icon a vector and set the theme to `scalable`, instead of having to make 16, 24, 32, 64px and so on versions of every single icon. 
 The process should be fast and simple enough to follow, so it's actually not a time sink to do so for every design.
 
 ### Tutorial:
