@@ -91,4 +91,4 @@ Keep in mind that pixel art is not about taking the full resolution version of a
 
 When drawing the glyph of any app, try to think which portion of the whole image the last pixel(s) you've drawn actually represents. You'll be surprised of how often you notice that the final result is getting distorted, and you'll know exactly why by applying this thought process.
 
-Aside from this general advice, you're free to use any version you want from any app icon, besides the really old ones if said app has been through many rebrandings. Try to keep the designs consistent with existing ones as well!
+Aside from this general advice, you're free to use any version you want from any app icon for reference, besides the really old ones if said app has been through many rebrandings. Try to keep the designs consistent with existing ones as well!
