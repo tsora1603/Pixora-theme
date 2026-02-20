@@ -24,7 +24,7 @@ Here you can see examples of GOOD borders and BAD borders:
 
 <br>
 
-![Borders Examples](assets/borders-exampls.png)
+![Borders Examples](assets/borders-examples.png)
 
 <br>
 
