@@ -75,7 +75,7 @@ You're free to tweak the original icon aesthetic as much as you want, as long as
 
 Visual representation of the color palette:
 
-[ image ]
+![Color Palette](assets/resurrect-32-8x.png)
 
 ## Shading
 
