@@ -48,7 +48,7 @@ The process should be fast and simple enough to follow, so it's actually not a t
 
 5. Press `Shift+Alt+B` or go to `Path > Trace Bitmap...` to open the bitmap tracing tab.
 
-4. Inside the tab that just opened in the right section, go to `Multicolor`, and under `Detection mode:` select `Colors` (remember to keep your icon image selected):
+4. Inside the tab that just opened in the right section, go to `Multicolor`, and under `Detection mode:`, select `Colors` (remember to keep your icon image selected):
 
 [ image ]
 
