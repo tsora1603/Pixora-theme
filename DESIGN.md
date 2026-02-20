@@ -42,7 +42,7 @@ The process should be fast and simple enough to follow, so it's actually not a t
 
 3. Left-click the image of your icon inside the canvas to select it.
 
-4. In the `W:` (width) and `H:` (height) fields you see at the top of the window, *downscale* the icon back to 16x16 (this optimizes file size):
+4. Using the `W:` (width) and `H:` (height) fields you see at the top of the window, *downscale* the icon back to 16x16 (this optimizes file size):
 
 5. Press `Shift+Ctrl+R` or go to `Edit > Resize Page to Selection` to make the canvas fit the new icon size.
 
