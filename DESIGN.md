@@ -23,7 +23,7 @@ A border has three simple criteria:
 Here you can see examples of GOOD borders and BAD borders:
 
 <br>
-
+![Good Borders](assets/goodborders.png)
 ![Bad Borders](assets/badborders.png)
 
 <br>
