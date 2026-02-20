@@ -1,10 +1,10 @@
 # pixora-theme
 Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
->[!note]
+>[!Note]
 > pixora-theme is being updated regularly. In case you want an icon to be added, please open a new issue.
 
-# 📷 screenshots
+# 📷 Screenshots
 #### Icons on an app launcher, featuring noctalia-shell:
 ![Desktop preview](assets/icons-showcase-2.png)
 
@@ -15,7 +15,7 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 <br>
 
-# 🖥️ how to install
+# 🖥️ How to Install
 
 ## 1. Clone the repo 
 ```bash
@@ -37,7 +37,7 @@ b. Copy-paste the files in the right directories, allowing for a fully local ins
 
 <br>
 
-# 🎨 how to contribute with art
+# 🎨 How to Contribute With Art
 You'll need:
 
 1. A pixel art editor ([LibreSprite](https://libresprite.github.io/#!/) is great!);
