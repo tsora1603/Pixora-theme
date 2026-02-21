@@ -68,7 +68,7 @@ The process should be fast and simple enough to follow, so it's actually not a t
 
 1. After finishing your design on your favorite 16x16 canvas, **upscale** the icon to 512x512 (no need for more than that) using the `Nearest-neighbor` option. You may save the icon in this resolution, as it is not the final product. You can always downscale back to 16x16 by `Nearest-neighbor` if anything.
 
-[ example on LibreSprite ]
+![LibreSprite Example](.github/lsprite-example.gif)
 
 2. Open your file on **Inkscape**.
 
@@ -80,14 +80,14 @@ The process should be fast and simple enough to follow, so it's actually not a t
 
 5. Press `Shift+Alt+B` or go to `Path > Trace Bitmap...` to open the bitmap tracing tab.
 
-4. Inside the tab that just opened in the right section, go to `Multicolor`, and under `Detection mode:`, select `Colors` (remember to keep your icon image selected):
+4. Inside the tab that just opened in the right section, go to `Multicolor`, and under `Detection mode`, select `Colors` (remember to keep your icon image selected):
 
-[ image ]
+![Inkscape Example](.github/inkscape-example.png)
 
 5. Using the `Scans` slider (or the `+` and `-` icons), tweak the amount until EVERY original color of the icon is present on the preview, and the background is black:
 > If you don't see a preview during this process, the image is most certainly not selected.
 
-[ video example ] 
+![Bitmap Tracing](.github/bitmap-trace.gif)
 
 6. Click `Apply` to apply your changes. You should now have a new object perfectly positioned above the original image that you can drag and zoom around (if you really end up doing that, don't forget to `Ctrl+Z` to revert it back into place <:).
 
